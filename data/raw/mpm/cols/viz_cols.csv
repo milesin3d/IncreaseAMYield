@@ -14,5 +14,5 @@ temp_hybref(C)
 temp_peak(C)
 loc_x(pixels)
 loc_y(pixels)
-layer_num_cond
+layer
 scan_direction(012)
