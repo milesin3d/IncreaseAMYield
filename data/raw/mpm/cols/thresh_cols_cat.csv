@@ -1,0 +1,8 @@
+,t1,t2,t3,t4
+temp_avg,t1_temp_avg(C),t2_temp_avg(C),t3_temp_avg(C),t4_temp_avg(C)
+length,t1_length(microns),t2_length(microns),t3_length(microns),t4_length(microns)
+width,t1_width(microns),t2_width(microns),t3_width(microns),t4_width(microns)
+orient,t1_orient(degrees),t2_orient(degrees),t3_orient(degrees),t4_orient(degrees)
+area,t1_area(microns2),t2_area(microns2),t3_area(microns2),t4_area(microns2)
+sat_num,t1_sat_num,t2_sat_num,t3_sat_num,t4_sat_num
+sat_area,t1_sat_area(microns2),t2_sat_area(microns2),t3_sat_area(microns2),t4_sat_area(microns2)
