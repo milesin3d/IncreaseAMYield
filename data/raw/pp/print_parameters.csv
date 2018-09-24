@@ -1,4 +1,4 @@
-condition,laser_power(w),scan_speed(mm/s),hatch_spacing(mm),cond_type
+condition,laser_power(W),scan_speed(mm/s),hatch_spacing(mm),cond_type
 1,325,1650,0.09,PV
 2,300,1650,0.09,PV
 3,275,1650,0.09,PV
