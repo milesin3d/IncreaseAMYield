@@ -2,7 +2,10 @@
 3D Printing + Machine Learning = Increase Part Yield
 
 ## Background Information
-This experiment includes actual (not simulated) data from a metal 3D printing machine and thermal imaging sensor. 10 samples were built and tested.
+This experiment includes actual (not simulated) data from a metal 3D printing machine and a thermal imaging sensor. 
+10 samples were built and tested. 
+From many experiences (both successes and failures), a broad understanding of physics, and a grasp of the internals of a 3D printer, there are many theories on how the "digital thread" is constructed (how one set of data affects another). 
+This large unknown thread of data is problematic for companies looking to create a bussiness model around machines that have a high potential, but come with much volatility, uncertainty, and cost.
 
 ## Goals
 ### Business
@@ -10,7 +13,7 @@ Increase the return on investment (ROI) of the machine by increasing the yield o
 
 ### Data
 1) Develop a connection between the three datasets.
-2) With this understanding, control the Print Parameters, and have a boundary for the Melt Pool Metrics, so that porosity is as close to 0% as possible.
+2) With this understanding, control the Print Parameters, and create a boundary for the Melt Pool Metrics, so that porosity is as close to 0% as possible.
 
 ## Datasets
 ### Print Parameters
