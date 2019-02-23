@@ -1,4 +1,4 @@
-# IncreaseAMYield
+# Increase Additive Manufacturing Yield
 3D Printing + Machine Learning = Increase Part Yield
 
 ## Background Information
@@ -6,7 +6,7 @@ This experiment includes actual (not simulated) data from a metal 3D printing ma
 
 ## Goals
 ### Business
-Increase the yield of the 3D printed components.
+Increase the return on investment (ROI) of the machine by increasing the yield of the 3D printed components.
 
 ### Data
 1) Develop a connection between the three datasets.
