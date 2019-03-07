@@ -25,7 +25,7 @@ A thermal imaging sensor captures images of the melting process, specifically th
 ### Material Properties
 The material property measured was porosity or (1 - Density).
 
-## Machine Learning
+## Machine Learning - Regression
 ### Linear Regression
 The act of fitting a line to two or more variables to show a linear relationship between them.
 
