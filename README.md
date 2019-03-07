@@ -31,3 +31,6 @@ The act of fitting a line to two or more variables to show a linear relationship
 
 ### Random Forest
 Many decision trees are used to separate the data into groups to determine their outcomes.
+
+## Results
+The Volumetric Laser Engergy Density is the best indicator of Porosity.
